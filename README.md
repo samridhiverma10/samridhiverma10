@@ -6,17 +6,15 @@
 
 <h2>Projects</h2>
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
- <details><summary>👉<strong> Usability Hub – HTML, CSS</strong></summary> 
+ <details><summary>👉<strong> Cara-Ecommerce – HTML, CSS, JavaScript</strong></summary> 
  <p> <br>
-Developed a responsive frontend project,”UsabilityHub Clone,” replicating the user interface 
-and design of the UsabilityHub website. It enhances usability testing and feedback for different designs and prototypes, 
-offering a visually appealing UI for an immersive experience.<br>
+ Designed a responsive \textbf{e-commerce} project's, featuring an immersive, visually engaging UI, attaining a 90% user satisfaction rate, and bolstered functionality, ensuring seamless navigation and shopping convenience..<br>
    <a href="https://samridhiverma10.github.io/UsabilityHub/Project2.html">[Link]</a>
   </p>
 </details>
 <details><summary>👉<strong>Amazon Clone website – HTML, CSS, JavaScript</strong></summary> 
  <p> <br>
- Developed a frontend project called ”Amazon Project,” a clone
+ Developed e-commerce project called ”Amazon Project,” a clone
 of the Amazon website with dynamic product listing, shopping cart, user authentication, smooth UI, and dynamic
 search functionality.<br>
    <a href="https://samridhiverma10.github.io/amazon/amazon.html">[Link]</a>
